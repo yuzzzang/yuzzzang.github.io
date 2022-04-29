@@ -31,8 +31,6 @@ github_username: jekyll
 
 # Build settings
 
-theme: jekyll-theme-hydejack
-
 remote_theme: hydecorp/hydejack@v9.1.6
 plugins:
   - jekyll-feed
