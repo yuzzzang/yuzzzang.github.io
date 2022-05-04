@@ -6,7 +6,7 @@ categories: cloud
 
 ## 1\. Manila란?
 ​
-[\[Openstack\] Manila 란?](2022-05-03-openstack_manila.md) 참고
+[\[Openstack\] Manila 란?](https://yuzzzang.github.io/cloud/2022/05/03/openstack_manila.html) 참고
 ​
 ## 2\. 배포(kolla)
 ​
